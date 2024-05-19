@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trialid" alt="trialid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WuEVUJk35kT4wzM12u9Z2&ust=1716240332793000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCBwc7TmoYDFQAAAAAdAAAAABAE"
 
 - 🌱 I’m currently learning **html,css and javascript**
 
