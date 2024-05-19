@@ -1,3 +1,4 @@
+![logo](https://github.com/trialid/trialid/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Abhigyan</h1>
 <h3 align="center">a youtuber</h3>
 
